@@ -45,6 +45,7 @@ It can be controlled with a keyboard or a Super Nintendo / Super Famicom control
 I would prefer to have an original story mode (not finished yet), as well as additional side stories, speedrun mode, level editor and online features as the original, but nix the outbound online features like level uploads, completion submissions and online accounts since it's an unofficial port. No DLCs, no microtransactions, no ads, no tracking.
 
 Music and sound mode options: VERA PSG, FM, or both.
+Video resolution: High (640x480), Low (320x240)
 
 Import levels from the Commodore systems like the 64, 128, Plus/4 or VIC-20 to the Commander X16 version, with compatibility settings. Only the level data and metadata will be imported.
 
@@ -58,4 +59,6 @@ Any vibe-coded pull requests will be declined without question. Habitual vibe-co
 Also, assets must not be AI generated.
 
 ## Commander X16 clones
-I am aware that there are X16-compatible computers such as the OtterX.
+I am aware that there are X16-compatible computers such as the OtterX, and that's okay because they allow homebrew/clone systems as long as they are licensed for their copy of the ROM.
+
+Unlicensed clones will not be supported.
