@@ -26,7 +26,7 @@ Same reason as the Commodore 64 port [See the reason in the C64 port](https://gi
 
 # Criteria for the BFDI Branches C64 port
 ## Programming Language
-I would want this port to be written in 65c02 assembly or C for the game code because writing the entire game in BASIC could run painfully slow due to being an interpreter and requires contiguous memory map (40 KB of low RAM).
+I would want this port to be written in 65c02 assembly, C, Forth, or any supported compiled language for the game code because writing the entire game in BASIC could run painfully slow due to being an interpreter and requires contiguous memory map (40 KB of low RAM).
 
 Interpreted languages are **not recommended** for the game code.
 
